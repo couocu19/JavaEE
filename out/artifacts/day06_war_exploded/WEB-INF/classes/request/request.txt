@@ -1,0 +1,11 @@
+Accept: application/x-ms-application, image/jpeg, application/xaml+xml, image/gif, image/pjpeg, application/x-ms-xbap, */*
+
+//Referer的相关信息
+Referer: http://localhost:8080/07_http/01_get.html
+Accept-Language: zh-CN
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; qdesk 2.5.1277.202; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 11 Sep 2014 02:44:35 GMT
+If-None-Match: W/"679-1410403475587"
+Host: localhost:8080
+Connection: Keep-Alive
