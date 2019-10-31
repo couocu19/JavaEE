@@ -23,7 +23,6 @@ public class LoginServlet extends javax.servlet.http.HttpServlet {
             cookie.setMaxAge(60*60*24);
             response.addCookie(cookie);
 
-
             //登录成功:在session中保存用户信息，并重定向到登陆成功页面
             HttpSession session = request.getSession();  //获取session
             session.setAttribute("username",username);
